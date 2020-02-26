@@ -4,7 +4,8 @@ export const videos = [
     title: "Awesome Video",
     description: "is this awesome?",
     views: 23,
-    videoFile: "https://archive.org/details/BigBuckBunny_124",
+    videoFile:
+      "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 12312312,
       name: "JUNHO",
@@ -16,7 +17,8 @@ export const videos = [
     title: "Awesome Video fake 2",
     description: "is this awesome?",
     views: 23,
-    videoFile: "https://archive.org/details/BigBuckBunny_124",
+    videoFile:
+      "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 12312312,
       name: "JUNHO",
@@ -28,7 +30,8 @@ export const videos = [
     title: "Awesome Video fake 3",
     description: "is this awesome?",
     views: 23,
-    videoFile: "https://archive.org/details/BigBuckBunny_124",
+    videoFile:
+      "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 12312312,
       name: "JUNHO",
