@@ -29,7 +29,7 @@ const config = {
             loader: "postcss-loader",
             options: {
               plugins() {
-                return [autorpefixer({ browsers: "cover 99.5%" })];
+                return [autorpefixer({ overrideBrowserslist: "cover 99.5%" })];
               }
             }
           },
